@@ -12,16 +12,16 @@ const SECTIONS = [
     heading: "いろいろ困ったとき",
     links: [
       { href: "/faq", label: "ツールの使い方を知りたい" },
-      { href: "/faq", label: "よくある質問" },
+      { href: "/faq", label: "よくある質問（AIが自動で返信します）" },
     ],
   },
   {
-    heading: "参考になるものを見たい",
-    links: [{ href: "/materials", label: "資料" }],
+    heading: "AIに相談したい",
+    links: [{ href: "/meeting", label: "アイデア出しの相談窓口" }],
   },
   {
-    heading: "会議に参加したい",
-    links: [{ href: "/meeting", label: "会議" }],
+    heading: "参考になるものを見たい・追加したい",
+    links: [{ href: "/materials", label: "資料" }],
   },
   {
     heading: "メンバーを紹介したい",
